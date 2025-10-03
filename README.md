@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello! 👋
 
+I've been teaching music and piano for some time, and while I'll probably never stop loving to teach, it was time to take some serious steps towards my other big interests, automation, mathematics and ML!
+
+Github has mainly been a tool for my studies, so it might look a bit empty here, but check out my website nabil0n.com for more, or contact me (also through my website) if you're looking for something specific!
 <!--
 **nabil0n/nabil0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
